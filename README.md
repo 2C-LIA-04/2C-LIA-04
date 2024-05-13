@@ -1,16 +1,19 @@
-### Hi there 👋
+### Bem vindo ao meu perfil! ₊˚౨ৎ˚
 
-<!--
-**2C-LIA-04/2C-LIA-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                            ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
 
-Here are some ideas to get you started:
+Meu nome é Ana Ferreira.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou aluna do ALURA, e estou me empenhando na linguagem do JAVASCRIPT. 
+
+Utilizo o GITHUB para o compartilhamento e organização de projetos. 
+
+★
+
+### Entre em contato comigo através de:
+@annanottf0und (instagram)
+
+![](https://media1.tenor.com/m/jFVQ7_NHW8kAAAAd/pom-pom-purin-plosoul.gif)
