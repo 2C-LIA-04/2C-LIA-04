@@ -5,15 +5,9 @@
                            |、˜〵          
                           じしˍ,)ノ
 
-Meu nome é Ana Ferreira.
+Meu nome é Ana.
 
-Sou aluna do ALURA, e estou me empenhando na linguagem do JAVASCRIPT. 
-
+Sou aluna do ALURA, e estou me empenhando na linguagem do HTML,CSS, JAVASCRIPT e outros. 
 Utilizo o GITHUB para o compartilhamento e organização de projetos. 
 
 ★
-
-### Entre em contato comigo através de:
-@annanottf0und (instagram)
-
-![](https://media1.tenor.com/m/jFVQ7_NHW8kAAAAd/pom-pom-purin-plosoul.gif)
